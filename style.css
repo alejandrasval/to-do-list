@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Montserrat&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.container {
+    display: block;
+    text-align: center;
+
+}
+
+.title {
+    color: white;
+    font-size: 100px;
+    font-family: 'Just Another Hand', cursive;
+}
+
+
+body {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-position: ;
+}
+
+.container {
+
+}
+
+.quote {
+    margin-top: 8rem;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Just Another Hand', cursive;
+    letter-spacing: 0.2rem;
+    font-weight: 500;
+}
+
+input {
+    background-color: #F7F7EE; 
+    border: 1px white solid;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+
+::placeholder {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.btn {
+    margin-top: 0.5rem;
+    background-color: #F7F7EE; 
+    border: 1px white solid;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    width: 8rem; 
+}
+
+.alert {
+    background-color: #F9F9F9; 
+}
+
+footer {
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+    color: white;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer:hover{
+    font-size: 1.2rem
+}
+
